@@ -11,7 +11,7 @@ Rhys is a PhD candidate at the Australian Centre for Ecogenomics. His research t
 
 Some of his current projects include:
 
-* [Lorikeet](https://rhysnewell.github.io/Lorikeet)
+* [Lorikeet](/Lorikeet)
 * [ChIP-R](https://github.com/rhysnewell/ChIP-R)
 
 Additionally, Rhys is involved in the development of various other tools.
