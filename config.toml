@@ -22,7 +22,7 @@ disqusShortname = "rhysnewell"
     avatarurl = "images/avatar.jpg"
     footercontent = "Ikigai."
 
-    dateformat = "January 2, 2006"
+    dateformat = "2 January, 2006"
 
     hideCredits = false
     hideCopyright = false
@@ -110,8 +110,18 @@ disqusShortname = "rhysnewell"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Publications"
+            weight = 4
+            url = "publications/"
+
+            [[languages.en.menu.main]]
+            name = "Talks & Awards"
             weight = 5
+            url = "conferences/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 6
             url = "contact/"
 
 
